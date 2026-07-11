@@ -1,0 +1,7 @@
+Name: Shivani Bandi
+College: <VNRVJIET>
+
+About Me:
+I am a second-year BTech CSE student.
+I am learning C, Python, Web Development, and Git & GitHub.
+I enjoy learning new technologies and improving my coding skills.
